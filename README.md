@@ -6,7 +6,7 @@
 >This is an IMPORTANT note.
 
 # Arduino
-![System](C:\Users\xMortal\Documents\github\Notes\ARDUINO.jpg "SYSTEM")
+![System](ARDUINO.jpg "SYSTEM")
 
 # Sistema de Rega
 
