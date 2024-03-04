@@ -6,7 +6,7 @@
 >This is an IMPORTANT note.
 
 # Arduino
-![System](ARDUINO.jpg "SYSTEM")
+![System](ARDUINO.jpg)
 
 # Sistema de Rega
 
